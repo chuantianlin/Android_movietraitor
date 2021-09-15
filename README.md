@@ -23,7 +23,7 @@
 
 
 
-<img src="walkthrough2" width=250><br>
+<img src="walkthrough2.gif" width=250><br>
 
 ### Notes
 
